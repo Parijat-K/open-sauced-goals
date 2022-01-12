@@ -1,182 +1,182 @@
 [
   {
     "full_name": "gluesql/gluesql",
-    "stargazers_count": 1221,
+    "stargazers_count": 1235,
     "open_issues_count": 46,
-    "forks_count": 91
+    "forks_count": 92
   },
   {
     "full_name": "duckdb/duckdb",
-    "stargazers_count": 4139,
-    "open_issues_count": 326,
-    "forks_count": 361
+    "stargazers_count": 4165,
+    "open_issues_count": 340,
+    "forks_count": 365
   },
   {
     "full_name": "MangoDB-io/MangoDB",
-    "stargazers_count": 3926,
-    "open_issues_count": 68,
-    "forks_count": 111
+    "stargazers_count": 3944,
+    "open_issues_count": 64,
+    "forks_count": 112
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 7721,
-    "open_issues_count": 180,
-    "forks_count": 405
+    "stargazers_count": 7751,
+    "open_issues_count": 176,
+    "forks_count": 411
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 11186,
-    "open_issues_count": 1579,
-    "forks_count": 985
+    "stargazers_count": 11311,
+    "open_issues_count": 1609,
+    "forks_count": 989
   },
   {
     "full_name": "PaddlePaddle/PaddleOCR",
-    "stargazers_count": 18497,
-    "open_issues_count": 1009,
-    "forks_count": 3797
+    "stargazers_count": 18540,
+    "open_issues_count": 983,
+    "forks_count": 3810
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 7290,
-    "open_issues_count": 16,
-    "forks_count": 5190
+    "stargazers_count": 7409,
+    "open_issues_count": 17,
+    "forks_count": 5234
   },
   {
     "full_name": "PySimpleGUI/PySimpleGUI",
-    "stargazers_count": 9172,
-    "open_issues_count": 641,
-    "forks_count": 1357
+    "stargazers_count": 9190,
+    "open_issues_count": 643,
+    "forks_count": 1363
   },
   {
     "full_name": "Saul-Mirone/milkdown",
-    "stargazers_count": 5460,
-    "open_issues_count": 10,
-    "forks_count": 186
+    "stargazers_count": 5512,
+    "open_issues_count": 9,
+    "forks_count": 190
   },
   {
     "full_name": "ciur/papermerge",
-    "stargazers_count": 1448,
-    "open_issues_count": 116,
+    "stargazers_count": 1451,
+    "open_issues_count": 117,
     "forks_count": 154
   },
   {
     "full_name": "jonaswinkler/paperless-ng",
-    "stargazers_count": 3626,
+    "stargazers_count": 3665,
     "open_issues_count": 195,
-    "forks_count": 241
+    "forks_count": 250
   },
   {
     "full_name": "RD17/ambar",
-    "stargazers_count": 1837,
+    "stargazers_count": 1838,
     "open_issues_count": 2,
     "forks_count": 339
   },
   {
     "full_name": "unidoc/unioffice",
-    "stargazers_count": 3135,
+    "stargazers_count": 3143,
     "open_issues_count": 28,
-    "forks_count": 354
+    "forks_count": 356
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 21119,
-    "open_issues_count": 185,
-    "forks_count": 1256
+    "stargazers_count": 21272,
+    "open_issues_count": 178,
+    "forks_count": 1260
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 28694,
+    "stargazers_count": 28763,
     "open_issues_count": 72,
-    "forks_count": 3158
+    "forks_count": 3171
   },
   {
     "full_name": "ml-tooling/opyrator",
-    "stargazers_count": 2534,
+    "stargazers_count": 2535,
     "open_issues_count": 2,
     "forks_count": 111
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 8535,
+    "stargazers_count": 8563,
     "open_issues_count": 83,
-    "forks_count": 506
+    "forks_count": 509
   },
   {
     "full_name": "Layout-Parser/layout-parser",
-    "stargazers_count": 2724,
-    "open_issues_count": 44,
-    "forks_count": 253
+    "stargazers_count": 2749,
+    "open_issues_count": 46,
+    "forks_count": 259
   },
   {
     "full_name": "nodegui/svelte-nodegui",
-    "stargazers_count": 2609,
+    "stargazers_count": 2612,
     "open_issues_count": 20,
     "forks_count": 39
   },
   {
     "full_name": "gskinnerTeam/flutter-folio",
-    "stargazers_count": 2815,
-    "open_issues_count": 26,
+    "stargazers_count": 2825,
+    "open_issues_count": 27,
     "forks_count": 530
   },
   {
     "full_name": "athensresearch/athens",
-    "stargazers_count": 5560,
-    "open_issues_count": 263,
+    "stargazers_count": 5582,
+    "open_issues_count": 264,
     "forks_count": 326
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 2543,
-    "open_issues_count": 39,
-    "forks_count": 809
+    "stargazers_count": 2570,
+    "open_issues_count": 44,
+    "forks_count": 822
   },
   {
     "full_name": "golismero/golismero",
-    "stargazers_count": 780,
+    "stargazers_count": 779,
     "open_issues_count": 27,
     "forks_count": 262
   },
   {
     "full_name": "heartexlabs/label-studio",
-    "stargazers_count": 7366,
-    "open_issues_count": 220,
-    "forks_count": 843
+    "stargazers_count": 7388,
+    "open_issues_count": 225,
+    "forks_count": 845
   },
   {
     "full_name": "revolist/revogrid",
-    "stargazers_count": 1888,
+    "stargazers_count": 1894,
     "open_issues_count": 75,
-    "forks_count": 100
+    "forks_count": 102
   },
   {
     "full_name": "theseus-os/Theseus",
-    "stargazers_count": 1663,
-    "open_issues_count": 25,
-    "forks_count": 73
+    "stargazers_count": 1671,
+    "open_issues_count": 24,
+    "forks_count": 74
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 6000,
-    "open_issues_count": 91,
-    "forks_count": 302
+    "stargazers_count": 6031,
+    "open_issues_count": 90,
+    "forks_count": 303
   },
   {
     "full_name": "selfspy/selfspy",
-    "stargazers_count": 2276,
+    "stargazers_count": 2278,
     "open_issues_count": 73,
-    "forks_count": 235
+    "forks_count": 236
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 6214,
-    "open_issues_count": 63,
+    "stargazers_count": 6233,
+    "open_issues_count": 70,
     "forks_count": 140
   },
   {
     "full_name": "SciML/Catalyst.jl",
     "stargazers_count": 239,
-    "open_issues_count": 49,
+    "open_issues_count": 48,
     "forks_count": 41
   }
 ]
