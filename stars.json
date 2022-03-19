@@ -1,57 +1,57 @@
 [
   {
     "full_name": "gluesql/gluesql",
-    "stargazers_count": 1277,
-    "open_issues_count": 55,
+    "stargazers_count": 1278,
+    "open_issues_count": 56,
     "forks_count": 94
   },
   {
     "full_name": "duckdb/duckdb",
-    "stargazers_count": 4494,
-    "open_issues_count": 385,
-    "forks_count": 417
+    "stargazers_count": 4509,
+    "open_issues_count": 369,
+    "forks_count": 419
   },
   {
     "full_name": "MangoDB-io/MangoDB",
-    "stargazers_count": 4198,
+    "stargazers_count": 4200,
     "open_issues_count": 91,
-    "forks_count": 135
+    "forks_count": 134
   },
   {
     "full_name": "questdb/questdb",
-    "stargazers_count": 8188,
-    "open_issues_count": 203,
-    "forks_count": 444
+    "stargazers_count": 8198,
+    "open_issues_count": 204,
+    "forks_count": 446
   },
   {
     "full_name": "appsmithorg/appsmith",
-    "stargazers_count": 13221,
-    "open_issues_count": 1750,
-    "forks_count": 1135
+    "stargazers_count": 13290,
+    "open_issues_count": 1756,
+    "forks_count": 1145
   },
   {
     "full_name": "PaddlePaddle/PaddleOCR",
-    "stargazers_count": 19327,
-    "open_issues_count": 994,
-    "forks_count": 4062
+    "stargazers_count": 19374,
+    "open_issues_count": 1007,
+    "forks_count": 4078
   },
   {
     "full_name": "Ebazhanov/linkedin-skill-assessments-quizzes",
-    "stargazers_count": 11558,
-    "open_issues_count": 20,
-    "forks_count": 6575
+    "stargazers_count": 11910,
+    "open_issues_count": 23,
+    "forks_count": 6645
   },
   {
     "full_name": "PySimpleGUI/PySimpleGUI",
-    "stargazers_count": 9629,
-    "open_issues_count": 654,
-    "forks_count": 1448
+    "stargazers_count": 9652,
+    "open_issues_count": 645,
+    "forks_count": 1447
   },
   {
     "full_name": "Saul-Mirone/milkdown",
-    "stargazers_count": 5883,
+    "stargazers_count": 5903,
     "open_issues_count": 20,
-    "forks_count": 219
+    "forks_count": 221
   },
   {
     "full_name": "ciur/papermerge",
@@ -61,115 +61,115 @@
   },
   {
     "full_name": "jonaswinkler/paperless-ng",
-    "stargazers_count": 4568,
+    "stargazers_count": 4587,
     "open_issues_count": 244,
-    "forks_count": 376
+    "forks_count": 335
   },
   {
     "full_name": "RD17/ambar",
-    "stargazers_count": 1849,
+    "stargazers_count": 1848,
     "open_issues_count": 2,
     "forks_count": 346
   },
   {
     "full_name": "unidoc/unioffice",
-    "stargazers_count": 3203,
+    "stargazers_count": 3205,
     "open_issues_count": 28,
-    "forks_count": 361
+    "forks_count": 362
   },
   {
     "full_name": "nocodb/nocodb",
-    "stargazers_count": 22646,
-    "open_issues_count": 214,
-    "forks_count": 1377
+    "stargazers_count": 22703,
+    "open_issues_count": 216,
+    "forks_count": 1381
   },
   {
     "full_name": "golang-standards/project-layout",
-    "stargazers_count": 30198,
+    "stargazers_count": 30272,
     "open_issues_count": 76,
-    "forks_count": 3381
+    "forks_count": 3387
   },
   {
     "full_name": "ml-tooling/opyrator",
-    "stargazers_count": 2594,
-    "open_issues_count": 4,
+    "stargazers_count": 2596,
+    "open_issues_count": 5,
     "forks_count": 120
   },
   {
     "full_name": "wbkd/react-flow",
-    "stargazers_count": 9498,
-    "open_issues_count": 76,
-    "forks_count": 598
+    "stargazers_count": 9617,
+    "open_issues_count": 82,
+    "forks_count": 608
   },
   {
     "full_name": "Layout-Parser/layout-parser",
-    "stargazers_count": 2886,
-    "open_issues_count": 47,
-    "forks_count": 277
+    "stargazers_count": 2891,
+    "open_issues_count": 46,
+    "forks_count": 278
   },
   {
     "full_name": "nodegui/svelte-nodegui",
-    "stargazers_count": 2643,
+    "stargazers_count": 2646,
     "open_issues_count": 20,
     "forks_count": 42
   },
   {
     "full_name": "gskinnerTeam/flutter-folio",
-    "stargazers_count": 3028,
+    "stargazers_count": 3030,
     "open_issues_count": 32,
     "forks_count": 579
   },
   {
     "full_name": "athensresearch/athens",
-    "stargazers_count": 5769,
-    "open_issues_count": 290,
+    "stargazers_count": 5776,
+    "open_issues_count": 289,
     "forks_count": 336
   },
   {
     "full_name": "adityatelange/hugo-PaperMod",
-    "stargazers_count": 2975,
-    "open_issues_count": 41,
-    "forks_count": 982
+    "stargazers_count": 3001,
+    "open_issues_count": 35,
+    "forks_count": 986
   },
   {
     "full_name": "golismero/golismero",
-    "stargazers_count": 788,
+    "stargazers_count": 789,
     "open_issues_count": 28,
     "forks_count": 264
   },
   {
     "full_name": "heartexlabs/label-studio",
-    "stargazers_count": 7850,
-    "open_issues_count": 257,
-    "forks_count": 943
+    "stargazers_count": 7871,
+    "open_issues_count": 263,
+    "forks_count": 947
   },
   {
     "full_name": "revolist/revogrid",
     "stargazers_count": 1975,
-    "open_issues_count": 82,
+    "open_issues_count": 84,
     "forks_count": 111
   },
   {
     "full_name": "theseus-os/Theseus",
-    "stargazers_count": 1755,
+    "stargazers_count": 1760,
     "open_issues_count": 22,
     "forks_count": 74
   },
   {
     "full_name": "ActivityWatch/activitywatch",
-    "stargazers_count": 6292,
-    "open_issues_count": 90,
-    "forks_count": 316
+    "stargazers_count": 6306,
+    "open_issues_count": 89,
+    "forks_count": 317
   },
   {
     "full_name": "selfspy/selfspy",
-    "stargazers_count": 2283,
+    "stargazers_count": 2282,
     "open_issues_count": 73,
-    "forks_count": 239
+    "forks_count": 238
   },
   {
     "full_name": "jpochyla/psst",
-    "stargazers_count": 6455,
+    "stargazers_count": 6470,
     "open_issues_count": 82,
     "forks_count": 148
   },
